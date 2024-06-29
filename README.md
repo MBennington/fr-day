@@ -44,15 +44,6 @@ Fr!day is an AI-powered software creator bot built with Python and Tkinter. It u
 
 3. Click "Hawk-Tuah" to generate and run the script.
 
-## File Structure
-
-├── friday.py
-├── Friday.png
-├── file_icon.png
-├── GABRWFFR.TTF
-├── README.md
-└── api_key.json (generated after entering the API key)
-
 ## Screenshots
 
 ![image](https://github.com/MBennington/fr-day/assets/57235170/3f9663cf-70c1-4863-85cf-df1120f81e09)
